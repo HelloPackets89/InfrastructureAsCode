@@ -1,8 +1,9 @@
 This is where I muck around with infrastructure as code
 
 To do:
-1. Create a bicep script to deploy the service principal to azure
-2. deploy the maximum allowed vms to my tenant based on cpu limits
+1. Setup this repo properly
+2. Create a bicep script to deploy the service principal to azure
+3. deploy the maximum allowed vms to my tenant based on cpu limits
 
 
 Resources:
